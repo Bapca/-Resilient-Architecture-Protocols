@@ -4,7 +4,7 @@
 As smartphones and AR devices become direct extensions of human cognition, users face three compounding threats: the rise of AI botnets spoofing human identity, physical street-level coercion (unwarranted searches, forced biometric unlocks), and sophisticated social engineering leading to user-initiated self-harm. We propose a unified architecture combining GVAP (Global Verification of Active Presence) and PDS (Personal Digital Sovereignty), anchored by an offline Edge-AI Guardian that protects the user both from external threats and their own cognitively compromised actions.
 
 ## 1. The GVAP Metric: Proof of Humanity & Social Graph
-To participate in high-stakes digital environments (corporate access, professional esports), verification must rely on an unforgeable timeline of activity to prevent Sybil attacks by Generative AI.
+To participate in high-stakes digital environments, verification must rely on an unforgeable timeline of activity to prevent Sybil attacks by Generative AI.
 * **Time-Locked Footprint:** A 1-to-3 year history of Git commits, verified streaming, or community contributions. AI can generate a fake video today, but cannot retroactively fake years of interactive public presence.
 * **Meritocratic Access:** This ensures global platforms remain populated by verified, productive humans with an audited history of competence.
 

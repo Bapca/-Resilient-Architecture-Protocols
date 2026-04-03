@@ -19,5 +19,8 @@ A framework requiring a continuous, transparent digital footprint on global plat
 ### 4. [PDS-GVAP: Personal Digital Sovereignty & Edge-AI Guardian](PDS_GVAP_Architecture.md)
 A unified framework combining Proof of Humanity with an offline, local Edge-AI Guardian designed to protect users from external physical coercion and socially engineered self-harm.
 
+### 5. [Security Audit & Protocol Hardening (Red Team Analysis)](SECURITY_AUDIT.md)
+A theoretical penetration test and vulnerability analysis of the proposed RAP standards. This section addresses potential exploits (DDoS, asset seizure, Sybil attacks, and physical duress) and introduces critical architectural mitigations including Cryptographic Proof-of-Work, Shamir's Secret Sharing, Zero-Knowledge Proofs, and Silent Duress Triggers.
+
 ## Status
 **Draft / Conceptual phase.** These documents are provided as open architectural concepts for the global cybersecurity and network engineering communities.
